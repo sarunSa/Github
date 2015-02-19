@@ -4,3 +4,5 @@ if(kikkik == "big leg"){
 }
 
 echo "hello guy" ; 
+
+cout << "kuyyyyyyy";
