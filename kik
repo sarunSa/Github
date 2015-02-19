@@ -2,3 +2,5 @@ kikkik
 if(kikkik == "big leg"){
    System.out.println("kik big leg");
 }
+
+echo "hello guy" ; 
